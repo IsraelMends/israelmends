@@ -28,7 +28,7 @@
 
 ## 📫 Contact Me
 
-* ✉️ [israel.seuemail@email.com](mailto:israelmendes971@gmail.com)
+* ✉️ [israelmendes971@gmail.com](mailto:israelmendes971@gmail.com)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/israel-de-oliveira-mendes-560975311/)
 
 ---
