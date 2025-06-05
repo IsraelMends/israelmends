@@ -20,11 +20,10 @@
 * UI/UX best practices
 * API integration
 
-## 🧠 Interests
+## 🌐 Lenguages
 
-* Creating clean and responsive interfaces
-* Improving app logic and performance
-* Working on real and collaborative projects
+* English: Intermediate
+* Portuguese: Native
 
 ## 📫 Contact Me
 
