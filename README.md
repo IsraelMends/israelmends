@@ -10,7 +10,7 @@
 
 ## 🛠️ Technologies
 
-* **Front-End:** HTML, CSS, JavaScript, React
+* **Front-End:** Next.JS, React
 * **Mobile:** React Native
 * **Tools:** Git, GitHub, Figma, VS Code
 
