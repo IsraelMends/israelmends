@@ -11,8 +11,9 @@
 ## 🛠️ Technologies
 
 * **Front-End:** Next.JS, React
+* **Back-End:** Node.JS, Express
 * **Mobile:** React Native
-* **Tools:** Git, GitHub, Figma, VS Code
+* **Tools:** Git, GitHub, Figma, VS Code, Docker
 
 ## 🌱 Currently Learning
 
