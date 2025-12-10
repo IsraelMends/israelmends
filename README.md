@@ -10,8 +10,8 @@
 
 ## 🛠️ Technologies
 
-* **Front-End:** Next.JS, React
-* **Back-End:** Node.JS, Express
+* **Front-End:** Next.JS, React, Angular
+* **Back-End:** Node.JS, Express, Fastify
 * **Mobile:** React Native
 * **Tools:** Git, GitHub, Figma, VS Code, Docker
 
